@@ -14,7 +14,7 @@ const Footer = () => {
     //     }));    
     return (
         <Box sx={{ }} className="footer">
-            <p>{"Copyright 2022 @Dedy Pratama"}</p>
+            <p>{"Copyright 2022 Made With Love"}</p>
         </Box>
     );
     };
